@@ -4,4 +4,5 @@ const birges = {
   3: "Stascom.com",
   4: "Logintrans.ru",
   5: "Degruz.com",
+  6: "Not exist",
 };
